@@ -1,4 +1,4 @@
-# EXperiment 1
+# Experiment 1
 
 ## Aim:
 To create SQL query to fetch "FIRST_NAME" from the worker table using the alias namefrom the sample.
@@ -80,4 +80,4 @@ INSERT INTO Title
 SELECT FIRST_NAME AS WORKER_NAME FROM Worker;
 ```
 ## Result:
-Therefore we have sucdessfully created a SQL query to fetch "FIRST_NAME" from the worker table using the alias namefrom the sample.
+Therefore we have successfully created a SQL query to fetch "FIRST_NAME" from the worker table using the alias namefrom the sample.
